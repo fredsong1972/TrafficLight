@@ -1,0 +1,6 @@
+@TrafficLightAPI_HostAddress = http://localhost:5189
+
+GET {{TrafficLightAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
