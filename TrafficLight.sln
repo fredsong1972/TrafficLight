@@ -5,7 +5,12 @@ VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "traffic-light", "traffic-light\traffic-light.esproj", "{2DBD5485-A8E0-4146-BF30-67C92BB577E8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrafficLightAPI", "TrafficLightAPI\TrafficLightAPI.csproj", "{B4D4DD0B-B991-4438-A1F0-B488AAA2739F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TrafficLightAPI", "TrafficLightAPI\TrafficLightAPI.csproj", "{B4D4DD0B-B991-4438-A1F0-B488AAA2739F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0C578AAC-E6AB-4290-BBCE-D53D82B3F49A}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
